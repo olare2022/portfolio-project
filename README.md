@@ -1,4 +1,4 @@
-# GitHub Stats Web Service
+## GitHub Stats Web Service
 
 This web service fetches GitHub statistics for a given user account using the GitHub API. It's a simple example using Python and Flask.
 
